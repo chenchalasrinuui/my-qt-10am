@@ -1,5 +1,6 @@
 import Postlistawait from './PostList/Postlistawait';
 import Accordion from './Accordian';
+import Captcha from './Captcha';
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
         <Postlistawait/>
         <Accordion/>
+        <Captcha/>
     </>
   )
 }
